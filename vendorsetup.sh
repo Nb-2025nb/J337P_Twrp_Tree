@@ -1,0 +1,2 @@
+add_lunch_combo omni_universal7885-userdebug
+add_lunch_combo omni_universal7885-eng
